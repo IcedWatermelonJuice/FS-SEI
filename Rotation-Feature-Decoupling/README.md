@@ -4,7 +4,7 @@
 * The "[ablation-experiment](./ablation-experiment)" folder is used for verifing the impact of mini-target in pretext task to downstream task.
 
 ## ContactL
-* E-mail: [geminixl615@gmail.com](mailto:geminixl615@gmail.com).
+* E-mail: [geminixl615@gmail.com](mailto:geminixl615@gmail.com)。
 
 ## Requirement
 * [Python](https://www.python.org/) 3.8.5  
@@ -14,10 +14,11 @@
 ![Framework of FS-SEI Method Using RFD](./fig/framework.png)
 
 ## Dataset
-* The dataset we used is from [https://genesys-lab.org/oracle](https://genesys-lab.org/oracle).
+* The dataset we used is from [https://genesys-lab.org/oracle](https://genesys-lab.org/oracle)。
 * We cut this 16-class WiFi dataset into 2 different datasets. Specifically, we divide the first 10 classes as
 an auxiliary dataset for pretext task, and the last 6 classes as a few-shot dataset for downstream task.
-* Info. of the dataset is displayed in the following table.  
+* Info. of the dataset is displayed in the following table.
+  
 | Parameters | Value |
 | :---: | :---: |
 |Dataset | WiFi |
@@ -40,4 +41,4 @@ an auxiliary dataset for pretext task, and the last 6 classes as a few-shot data
 ![Average Line Chart: FS-SEI using RFD VS FS-SEI without pretrain](./fig/average_comparison.png)  
 * Abaltion experiment  
 ![Abaltion experiment](./fig/comparation_of_ablation.png) -->
-The performance of our method is demonstrated in subsections **B** and **C** of section **IV** in our paper.
+The performance of our method is demonstrated in subsections **B** 和 **C** of section **IV** in our paper.
