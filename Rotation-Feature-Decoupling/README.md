@@ -41,4 +41,4 @@ an auxiliary dataset for pretext task, and the last 6 classes as a few-shot data
 ![Average Line Chart: FS-SEI using RFD VS FS-SEI without pretrain](./fig/average_comparison.png)  
 * Abaltion experiment  
 ![Abaltion experiment](./fig/comparation_of_ablation.png) -->
-The performance of our method is demonstrated in `subsection B` 和 `subsection C` of `section IV` in our paper.
+The performance of our method is demonstrated in `subsection B` and `subsection C` of `section IV` in our paper.
