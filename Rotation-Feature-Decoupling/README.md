@@ -18,7 +18,7 @@
 * We cut this 16-class WiFi dataset into 2 different datasets. Specifically, we divide the first 10 classes as
 an auxiliary dataset for pretext task, and the last 6 classes as a few-shot dataset for downstream task.
 * Info. of the dataset is displayed in the following table.
-  
+
 | Parameters | Value |
 | :---: | :---: |
 |Dataset | WiFi |
