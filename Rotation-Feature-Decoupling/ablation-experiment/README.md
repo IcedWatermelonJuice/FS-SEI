@@ -14,4 +14,4 @@
 * For more Info., please go to the "[main-experiment](../main-experiment)" folder.
 
 ## ContactL
-* E-mail: [geminixl615@gmail.com](mailto:geminixl615@gmail.com)
+* E-mail: [1023010411@njupt.edu.cn](mailto:1023010411@njupt.edu.cn)
