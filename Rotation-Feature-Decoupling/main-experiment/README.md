@@ -17,4 +17,4 @@
 * The "[average.py](./downstream/average.py)" and "[boxplot.py](./downstream/boxplot.py)" in "[visualization](./downstream/visualization)" folder is used to draw box plot and line chart of average accuracy.
 
 ## ContactL
-* E-mail: [geminixl615@gmail.com](mailto:geminixl615@gmail.com)
+* E-mail: [1023010411@njupt.edu.cn](mailto:1023010411@njupt.edu.cn)
