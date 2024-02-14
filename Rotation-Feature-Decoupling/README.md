@@ -1,7 +1,7 @@
 ## FS-SEI Based on RFD
 * The code corresponds to the paper "[Few-Shot Specific Emitter Identification Method Using Rotation Feature Decoupling for Secure 6G](https://ieeexplore.ieee.org/document/10419686)".
 
-`
+```
 @INPROCEEDINGS{10419686,
   author={Xu, Lai and Shi, Wenjuan and Fu, Xue and Xu, Hua and Wang, Yu and Adebisi, Bamidele and Gui, Guan},
   booktitle={2023 IEEE 23rd International Conference on Communication Technology (ICCT)}, 
@@ -12,7 +12,7 @@
   pages={490-494},
   keywords={Training;6G mobile communication;Wireless communication;Simulation;Feature extraction;Stability analysis;Task analysis;Specific emitter identification (SEI);few-shot learning;self-supervised learning;rotation prediction},
   doi={10.1109/ICCT59356.2023.10419686}}
-`
+```
 
 * The "[main-experiment](./main-experiment)" folder is used for pretext task and downstream task.
 * The "[ablation-experiment](./ablation-experiment)" folder is used for verifing the impact of mini-target in pretext task to downstream task.
