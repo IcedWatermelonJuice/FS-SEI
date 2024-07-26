@@ -1,4 +1,4 @@
-## FS-SEI Based on RFD
+## FS-SEI Based on PSPD
 * The code corresponds to the paper "Enhanced Few-Shot Specific Emitter Identification via Phase Shift Prediction and Decoupling", which has been accepted by IEEE Transactions on Cognitive Communications and Networking (TCCN).
 
 ## Contact
