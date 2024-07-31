@@ -29,9 +29,9 @@
 
 ## Dataset
 * The dataset we used is from [https://genesys-lab.org/oracle](https://genesys-lab.org/oracle).
-* We cut this 16-class WiFi dataset into 2 different datasets. Specifically, we divide the first 10 classes as
+* We cut this 16-class Wi-Fi dataset into 2 different datasets. Specifically, we divide the first 10 classes as
 an auxiliary dataset for pretext task, and the last 6 classes as a few-shot dataset for downstream task.
-* Info. of the dataset is displayed in the following table.
+* Info of the dataset is displayed in the following table.
 
 | Parameters | Value |
 | :---: | :---: |
