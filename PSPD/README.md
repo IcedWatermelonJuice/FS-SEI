@@ -1,5 +1,6 @@
 ## FS-SEI Based on PSPD
 * The code corresponds to the paper "[Enhanced Few-Shot Specific Emitter Identification via Phase Shift Prediction and Decoupling](https://ieeexplore.ieee.org/document/10614374)".
+* This is the journal version of the [conference paper](https://ieeexplore.ieee.org/document/10419686/) and an improvement and upgrade of the RFD project.
 
 ## Contact
 * E-mail: [1023010411@njupt.edu.cn](mailto:1023010411@njupt.edu.cn).
