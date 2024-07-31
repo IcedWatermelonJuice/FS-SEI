@@ -1,5 +1,5 @@
 ## FS-SEI Based on PSPD
-* The code corresponds to the paper "Enhanced Few-Shot Specific Emitter Identification via Phase Shift Prediction and Decoupling", which has been accepted by IEEE Transactions on Cognitive Communications and Networking (TCCN).
+* The code corresponds to the paper "[Enhanced Few-Shot Specific Emitter Identification via Phase Shift Prediction and Decoupling](https://ieeexplore.ieee.org/document/10614374)".
 
 ## Contact
 * E-mail: [1023010411@njupt.edu.cn](mailto:1023010411@njupt.edu.cn).
@@ -15,5 +15,21 @@
 ![tqdm 4.64.1](https://img.shields.io/badge/tqdm-4.64.1-blue)
 ![pandas 1.3.5](https://img.shields.io/badge/pandas-1.3.5-blue)
 
-## The code and source files will be uploaded later.
-* 2024.07.26: Part of the code and source files has been uploaded, and the remaining files are still being organized.
+## Deployment
+* `pretext.py` is used for pretraining. For example , you can execute `python pretrain.py -e ResNet18 ` to get a pretrained encoder.
+
+* `finetune.py` is used for finetuning. For example , you can execute `python finetune.py -e ResNet18 -s 5 ` to finetune the encoder and train a classifier for 5-shot case.  If you want to artificially add noise of a specified SNR (e.g. 10dB) during the test phase, you can execute `python finetune.py -e ResNet18 -s 5 --snr 10`.
+
+* The usage of `baseline.py` is similarly to `finetune.py`.
+
+## Framework
+![Framework of FS-SEI Method Using PSPD](./fig/framework.svg)
+
+## Dataset
+* The dataset we used is from [https://genesys-lab.org/oracle](https://genesys-lab.org/oracle).
+* We cut this 16-class Wi-Fi dataset into 2 different datasets. Specifically, we divide the first 10 classes as
+  an auxiliary dataset for pretext task, and the last 6 classes as a few-shot dataset for downstream task.
+* Info of the dataset is displayed in the `Subsection A` of `Section V` in our paper.
+
+## Performance
+* The performance of our method is demonstrated in `Subsection B` to `Subsection G` of `Section V` in our paper.
