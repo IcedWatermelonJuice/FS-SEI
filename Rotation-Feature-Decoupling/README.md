@@ -16,6 +16,7 @@
 
 * The "[main-experiment](./main-experiment)" folder is used for pretext task and downstream task.
 * The "[ablation-experiment](./ablation-experiment)" folder is used for verifing the impact of mini-target in pretext task to downstream task.
+* The [Enhanced Few-Shot Specific Emitter Identification via Phase Shift Prediction and Decoupling](https://ieeexplore.ieee.org/document/10614374/) and PSPD project is the continuation and improvement of this project.
 
 ## Contact
 * E-mail: [geminixl615@gmail.com](mailto:geminixl615@gmail.com).
