@@ -1,5 +1,17 @@
 ## FS-SEI Based on PSPD
 * The code corresponds to the paper "[Enhanced Few-Shot Specific Emitter Identification via Phase Shift Prediction and Decoupling](https://ieeexplore.ieee.org/document/10614374)".
+```
+@ARTICLE{10614374,
+  author={Xu, Lai and Fu, Xue and Wang, Yu and Zhang, Qianyun and Zhao, Haitao and Lin, Yun and Gui, Guan},
+  journal={IEEE Transactions on Cognitive Communications and Networking}, 
+  title={Enhanced Few-Shot Specific Emitter Identification via Phase Shift Prediction and Decoupling}, 
+  year={2025},
+  volume={11},
+  number={1},
+  pages={145-155},
+  keywords={Task analysis;Feature extraction;Physical layer;Clustering algorithms;Authentication;Estimation;Wireless communication;Specific emitter identification (SEI);few-shot learning;self-supervised learning;rotation prediction},
+  doi={10.1109/TCCN.2024.3435886}}
+```
 * This is the journal version of the [conference paper](https://ieeexplore.ieee.org/document/10419686/) and an improvement and upgrade of the RFD project.
 
 ## Contact
