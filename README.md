@@ -1,4 +1,5 @@
-![FocusLab](https://github.com/IcedWatermelonJuice/P3MC/blob/main/FocusLab_Logo.png)
+![FocusLab](https://github.com/IcedWatermelonJuice/IcedWatermelonJuice/blob/main/FocusLab_Logo.png?raw=true)
+
 # FS-SEI
 Few-Shot Specific Emitter Identification (FS-SEI) Method 
 | Name | Method | Paper | Keywords |
