@@ -1,3 +1,5 @@
+![FocusLab](https://github.com/IcedWatermelonJuice/IcedWatermelonJuice/blob/main/FocusLab_Logo.png?raw=true)
+
 ## FS-SEI Based on RFD
 * The code corresponds to the paper "[Few-Shot Specific Emitter Identification Method Using Rotation Feature Decoupling for Secure 6G](https://ieeexplore.ieee.org/document/10419686)".
 
