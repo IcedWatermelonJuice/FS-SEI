@@ -8,4 +8,4 @@ Few-Shot Specific Emitter Identification (FS-SEI) Method
 | PSPD | [Phase Shift Prediction and Decoupling](./PSPD) | [Enhanced Few-Shot Specific Emitter Identification via Phase Shift Prediction and Decoupling](https://ieeexplore.ieee.org/document/10614374) | Specific emitter identification (SEI), few-shot learning, self-supervised learning, rotation prediction |
 
 ## Contact
-* E-mail: [1023010411@njupt.edu.cn](mailto:1023010411@njupt.edu.cn)
+* E-mail: [2025011313@njupt.edu.cn](mailto:2025011313@njupt.edu.cn)
