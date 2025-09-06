@@ -21,7 +21,7 @@
 * The [Enhanced Few-Shot Specific Emitter Identification via Phase Shift Prediction and Decoupling](https://ieeexplore.ieee.org/document/10614374/) and PSPD project is the continuation and improvement of this project.
 
 ## Contact
-* E-mail: [geminixl615@gmail.com](mailto:geminixl615@gmail.com).
+* E-mail: [1023010411@njupt.edu.cn](mailto:1023010411@njupt.edu.cn).
 
 ## Requirement
 * [Python](https://www.python.org/) 3.8.5  
@@ -59,3 +59,4 @@ an auxiliary dataset for pretext task, and the last 6 classes as a few-shot data
 * Abaltion experiment  
 ![Abaltion experiment](./fig/comparation_of_ablation.png) -->
 The performance of our method is demonstrated in `subsection B` and `subsection C` of `section IV` in our paper.
+
