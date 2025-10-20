@@ -17,7 +17,7 @@
 * This is the journal version of the [conference paper](https://ieeexplore.ieee.org/document/10419686/) and an improvement and upgrade of the RFD project.
 
 ## Contact
-* E-mail: [2025011313@njupt.edu.cn](mailto:2025011313@njupt.edu.cn).
+* E-mail: [xulai@njupt.edu.cn](mailto:xulai@njupt.edu.cn).
 
 ## Requirement
 ![python 3.7](https://img.shields.io/badge/python-3.7-blue)
@@ -48,4 +48,5 @@
 
 ## Performance
 * The performance of our method is demonstrated in `Subsection B` to `Subsection G` of `Section V` in our paper.
+
 
