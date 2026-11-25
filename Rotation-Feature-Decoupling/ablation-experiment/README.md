@@ -12,6 +12,3 @@
 ## Downstream Task
 * The downstream task here is similar to the one in main experiment.
 * For more Info., please go to the "[main-experiment](../main-experiment)" folder.
-
-## ContactL
-* E-mail: [1023010411@njupt.edu.cn](mailto:1023010411@njupt.edu.cn)
